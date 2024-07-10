@@ -2,5 +2,5 @@
 title: Welcome to itsmundane
 ---
 
-Hello world!
+Hello world! Hi Karl, hi Dan! 
 
