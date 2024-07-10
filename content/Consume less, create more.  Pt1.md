@@ -7,14 +7,15 @@ Bear with me for a second (what a sentence to start my very first public post...
 But I promise that while this is *also* doing that a bit, the core message is about how I'm trying to take advantage of the "AI superpowers" (really what I mean here is large language models) for my media consumption. While I've been quite good about accepting that there's not enough time in the world to read the gazillion papers, articles, threads I've bookmarked, I find it harder to ignore the many highlights, notes, and insights I made, but that live scattered across several tools and services. 
 
 ## The Starting Point.
-**More time to create.** Quite some time ago when we were co-workers at Spotify, the amazing designer [Mat Budelmann](https://substack.com/@practicingdesign) mentioned how he's trying to consume less and create more (now you know, I stole that line!) And that's the ultimate goal, to spend less time managing that firehose of content to consume, and spending more time on creating something original based on my very own reflections and insights. 
+**More time to create.** Quite some time ago when we were co-workers at Spotify, the amazing designer [Mat Budelmann](https://substack.com/@practicingdesign) mentioned how he's trying to consume less and create more (now you know, I stole that line!) And that's the ultimate goal: spend less time managing that firehose of content to consume, and spend more time creating something original based on my very own reflections and insights. 
 
-**Less 'useless' reading.** There's never enough time to read, and to be honest, with more and more content being generated, it's even becoming hard to figure out what content is worth reading.
+**Less 'useless' reading.** There's never enough time to read, and to be honest, with more and more content being generated, it's becoming hard to simply figure out what content is worth reading.
 
-**Less screen time.** No this isn't suddenly turning into a parenting post, but just like kids, I shouldn't spent too much time in front of a screen. But my setup required more screen time than I wanted. I love going on long walks or runs and listening to podcasts or even research papers (now that synthetic voices are so good.)
+**Less screen time.** No, this isn't suddenly turning into a parenting post, but just like kids, I should spent less time in front of a screen. But my setup required more screen time than I wanted. I love going on long walks or runs while listening to podcasts or even research papers (now that synthetic voices are so good), but I wish it was to process what I'm hearing to better remember it later.
 
+I'll get to how I'm now addressing these points in a bit, but this is what triggered my exploration into a change of tools.
 ## Obsidian Obsession.
-Very timely, my friend [Daniel Leon](https://www.linkedin.com/in/danielandresleon) introduced me to [Obsidian](https://obsidian.md/) and particularly the [Caret Plugin](https://caretplugin.ai/) Plugin which allows you to visually create workflows using any sort of text file and feeding it into an LLM. 
+My friend [Daniel Leon](https://www.linkedin.com/in/danielandresleon) introduced me to [Obsidian](https://obsidian.md/) and particularly the [Caret Plugin](https://caretplugin.ai/) Plugin which allows you to visually create workflows using any sort of text file and feeding it into an LLM. 
 
 E.g., in the screenshot I'm using a text about California add two nodes in which I ask an LLM to 'Generate keywords to advertise California to techies.' and also "Create a sarcastic tourism slogan." then I can take the results and "Use that info to come up with a tweet and hashtags that are very ironic, but sound serious."
 
