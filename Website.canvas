@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"81a3ad39fc5bf1e7","type":"text","text":"Keep the tone of this content, but rewrite this to be more concise.","role":"user","displayOverride":true,"x":446,"y":-75,"width":510,"height":200,"color":"4"},
+		{"role":"","displayOverride":true,"id":"9ee9f461076f6815","type":"text","text":"Bear with me for a second (what a sentence to start my very first public post.) I've always had strong feelings about people that write about productivity and instruct others to set up these sophisticated systems, feeling like peak 'productive procrastination.' \n\nBut I promise while this is *also* talking about that, it's just as much about how I'm trying to set up my system to take advantage of new AI tools (well, large language models) to help me get out of that place where I feel like there's a gazillion papers, articles, threads to read and a gazillion of tiny notes and insights scattered across 5 different tools and services. This might or might not be useful to others, but I want to get away from feeling like there's this firehose of content to consume to where I create something original based on my very own reflections and insights. ","x":0,"y":-105,"width":250,"height":525,"color":"4"},
+		{"id":"d4f82fccf8b3b3eb","type":"text","text":"Here's a more concise version:\n\nI'm finally posting publicly after being skeptical of productivity gurus who tout complex systems without showing their own messy processes. But this post is also about embracing new AI tools, specifically large language models, to help","role":"assistant","displayOverride":true,"x":1156,"y":-75,"width":510,"height":270}
+	],
+	"edges":[
+		{"id":"5727a457a349d907","fromNode":"9ee9f461076f6815","fromSide":"right","toNode":"81a3ad39fc5bf1e7","toSide":"left"},
+		{"id":"1f5df04d3023d753","fromNode":"81a3ad39fc5bf1e7","fromSide":"right","toNode":"d4f82fccf8b3b3eb","toSide":"left"}
+	]
+}
