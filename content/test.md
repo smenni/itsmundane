@@ -1,6 +1,6 @@
 ---
 title: test
-draft: true
+draft: false
 tags:
   - example-tag
 ---
