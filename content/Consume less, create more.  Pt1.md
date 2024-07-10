@@ -19,7 +19,7 @@ Very timely, my friend [Daniel Leon](https://www.linkedin.com/in/danielandresleo
 E.g., in the screenshot I'm using a text about California add two nodes in which I ask an LLM to 'Generate keywords to advertise California to techies.' and also "Create a sarcastic tourism slogan." then I can take the results and "Use that info to come up with a tweak and hashtags that are very ironic, but sound serious."
 
 The entire flow:
-![[public/flow-overview.png]]
+![public/flow-overview.png](public/flow-overview.png)
 And to spare you trying to zoom in, this is the result: 
 ![[public/flow-tweet.png]]
 
