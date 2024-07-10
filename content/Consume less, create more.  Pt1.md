@@ -16,7 +16,7 @@ But I promise that while this is *also* doing that a bit, the core message is ab
 ## Obsidian Obsession.
 Very timely, my friend [Daniel Leon](https://www.linkedin.com/in/danielandresleon) introduced me to [Obsidian](https://obsidian.md/) and particularly the [Caret Plugin](https://caretplugin.ai/) Plugin which allows you to visually create workflows using any sort of text file and feeding it into an LLM. 
 
-E.g., in the screenshot I'm using a text about California add two nodes in which I ask an LLM to 'Generate keywords to advertise California to techies.' and also "Create a sarcastic tourism slogan." then I can take the results and "Use that info to come up with a tweak and hashtags that are very ironic, but sound serious."
+E.g., in the screenshot I'm using a text about California add two nodes in which I ask an LLM to 'Generate keywords to advertise California to techies.' and also "Create a sarcastic tourism slogan." then I can take the results and "Use that info to come up with a tweet and hashtags that are very ironic, but sound serious."
 
 The entire flow:
 ![[flow-overview.png]]
