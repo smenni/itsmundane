@@ -1,5 +1,5 @@
 ---
-title: Consumption to Creation
+title: Consume less, create more. Part 1.
 draft: false
 ---
 Bear with me for a second (what a sentence to start my very first public post...) I need this disclaimer since I've always had mixed feelings about people that write about productivity tools and instruct others to set up these sophisticated, intricate systems. It feels like peak 'productive procrastination.' 
