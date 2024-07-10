@@ -19,10 +19,11 @@ Very timely, my friend [Daniel Leon](https://www.linkedin.com/in/danielandresleo
 E.g., in the screenshot I'm using a text about California add two nodes in which I ask an LLM to 'Generate keywords to advertise California to techies.' and also "Create a sarcastic tourism slogan." then I can take the results and "Use that info to come up with a tweak and hashtags that are very ironic, but sound serious."
 
 The entire flow:
-[flow-overview](../public/flow-overview.png)
+![[flow-overview.png]]
 
 And to spare you trying to zoom in, this is the result: 
-[flow-tweet](../public/flow-tweet.png)
+![[flow-tweet.png]]
+
 
 On a more serious note though, this tinkering around with it made me wonder, could I pipe in my documents and notes and help me sift through them, helping me resurface my reflections, and give me more mind space to focus on applying those insights to something practical.
 
