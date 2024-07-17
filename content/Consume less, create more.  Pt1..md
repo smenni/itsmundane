@@ -28,7 +28,7 @@ And to spare you trying to zoom in, this is the result:
 
 On a more serious note though, this tinkering around with it made me wonder, could I pipe in my documents and notes and help me sift through them? Could I help me resurface my reflections, and give me more mind space to focus on applying those insights to something practical?
 
-In [Consume less, create more. Pt2.](Consume%20less,%20create%20more.%20Pt2..md) I'll describe how I've been starting to consolidate these thoughts and streamline my process.
+In [Consume less create more Pt2](Consume%20less%20create%20more%20Pt2.md) I'll describe how I've been starting to consolidate these thoughts and streamline my process.
 
 
 
