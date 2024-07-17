@@ -16,7 +16,7 @@ But I promise that while this is *also* doing that a bit, the core message is ab
 I'll get to how I'm now addressing these points in a bit, but here's what triggered my exploration into a change of tools.
 
 ## Obsidian Obsession.
-My friend [Daniel Leon](https://www.linkedin.com/in/danielandresleon) introduced me to [Obsidian](https://obsidian.md/) and particularly the p [Caret^ plugin](https://caretplugin.ai/) Plugin which allows you to visually create workflows using any sort of text file and feeding it into an LLM. 
+My friend [Daniel Leon](https://www.linkedin.com/in/danielandresleon) introduced me to [Obsidian](https://obsidian.md/) and particularly the [Caret^ plugin](https://caretplugin.ai/) which allows you to visually create workflows using any sort of text file and feeding it into an LLM. 
 
 E.g., in the screenshot I'm using a card with some text about California, then added two more cards, one in which I ask an LLM to "generate keywords to advertise California to techies." and in the other to "create a sarcastic tourism slogan." After clicking a "sparkle" button, it generates the two responses which I pipe into another card with the request to "use that info to come up with a tweet and hashtags that are very ironic, but sound serious."
 

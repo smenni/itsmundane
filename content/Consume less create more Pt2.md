@@ -10,14 +10,14 @@ To make it even more concrete: recently, I've been exploring the mental load of 
 
 >[!question] If anyone knows of an efficient "Blinkist to Readwise" workflow, please share your insights.
 
-Using the official Readwise plugin, everything is synced into Obsidian. Each item from Readwise is transformed into a note that incorporates all the highlights I've made. While this setup may sound complex, it work really well for me as it requires no more manual involvement. Ultimately, everything ends up in Obsidian, where it's indexed and searchable and I no longer need to jump between different tools just to organize my thoughts.
+Using the official Readwise plugin, everything is synced into Obsidian. Each item from Readwise is transformed into a note that incorporates all the highlights I've made. While this setup may sound complex, it works really well for me as it requires no more manual involvement. Ultimately, everything ends up in Obsidian, where it's indexed and searchable, and I no longer need to jump between different tools just to organize my thoughts.
 
 >[!tip] Handy shortcut for less screen time:
 >**AirPod Triple-Press.** You can set this up as a shortcut to make highlights in Reader by Readwise and in Snipd. This offers a direct, screen-free route from listening to having my highlights ready in Obsidian.
 
 ## Enzyme Energy
 
-This is where another  tool from another amazing former co-worker, [Josh Pham](https://www.jpham.space/), comes into play. Josh developed a plugin called [Enzyme](https://www.enzyme.garden/) for Obsidian that enables the use of LLMs directly within your notes. This plugin can be used right within the text of your notes, which I find incredibly convenient for writing. There's no need to toggle between a writing tool and a browser anymore, and depending on my needs, I don't even have to switch between notes or different views in Obsidian.
+This is where another tool from another amazing former co-worker, [Josh Pham](https://www.jpham.space/), comes into play. Josh developed a plugin called [Enzyme](https://www.enzyme.garden/) for Obsidian that enables the use of LLMs directly within your notes. This plugin can be used right within the text of your notes, which I find incredibly convenient for writing. There's no need to toggle between a writing tool and a browser anymore, and depending on my needs, I don't even have to switch between notes or different views in Obsidian.
 
 To reconnect this to my current focus on the mental load of parenting and the use of AI to assist with it, I asked Enzyme to reflect on my thinking and help me identify common themes. Everybody might have a different way to tag highlights, but I typically only use per-document tags, such as \#mentalload and \#parenting.
 
@@ -25,7 +25,7 @@ Let's say I want to figure out the general themes of the related content I've re
 
 > ![](enzyme-examples.png)
 
-Now I can just pull out anything that seems useful in the output, as it's simply text in my note. I can also highlight parts that resonate with me and ask Enzyme to expand on it (was so close to using 'delve into' here, but didn't want to sound like your average ChatGPT)  as illustrated in this screenshot:
+Now I can just pull out anything that seems useful in the output, as it's simply text in my note. I can also highlight parts that resonate with me and ask Enzyme to expand on it (was so close to using 'delve into' here, but didn't want to sound like your average ChatGPT) as illustrated in this screenshot:
 
 ![](enzyme-highlights.png)
 
