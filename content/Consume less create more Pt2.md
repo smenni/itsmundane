@@ -6,7 +6,7 @@ In [Consume less create more Pt1](Consume%20less%20create%20more%20Pt1.md), I de
 
 ## One Funnel via Readwise
 
-To make it even more concrete: recently, I've been exploring the mental load of parents and how AI can alleviate it (by now my interests should be quite obvious.) I've explored various online tools for parents, read academic papers, numerous articles and blog posts, listened to several podcasts, and read books. Anything I find interesting in a browser, I save to Readwise. I read books using Kindle on my Boox, and listen to podcasts via Snipd. All of these platforms can sync to Readwise to create a single, streamlined collection point. 
+To make it even more concrete: recently, I've been exploring the mental load of parents and how AI can alleviate it (by now my interests should be quite obvious.) I've explored various online tools for parents, read academic papers, numerous articles and blog posts, listened to several podcasts, and read books. Anything I find interesting in a browser, I save to [Readwise](https://readwise.io/). I read books using Kindle on my Boox, and listen to podcasts via [Snipd](https://www.snipd.com/). All of these platforms can sync to Readwise to create a single, streamlined collection point. 
 
 >[!question] If anyone knows of an efficient "Blinkist to Readwise" workflow, please share your insights.
 
