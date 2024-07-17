@@ -14,8 +14,9 @@ But I promise that while this is *also* doing that a bit, the core message is ab
 **Less screen time.** No, this isn't suddenly turning into a parenting post, but just like kids, I should spend less time in front of a screen. But my setup required more screen time than I wanted. I love going on long walks or runs while listening to podcasts or even research papers (now that synthetic voices are so good), but I wish it would be easier to process what I'm hearing so I can remember it later.
 
 I'll get to how I'm now addressing these points in a bit, but here's what triggered my exploration into a change of tools.
+
 ## Obsidian Obsession.
-My friend [Daniel Leon](https://www.linkedin.com/in/danielandresleon) introduced me to [Obsidian](https://obsidian.md/) and particularly the [Caret Plugin](https://caretplugin.ai/) Plugin which allows you to visually create workflows using any sort of text file and feeding it into an LLM. 
+My friend [Daniel Leon](https://www.linkedin.com/in/danielandresleon) introduced me to [Obsidian](https://obsidian.md/) and particularly the p [Caret^ plugin](https://caretplugin.ai/) Plugin which allows you to visually create workflows using any sort of text file and feeding it into an LLM. 
 
 E.g., in the screenshot I'm using a card with some text about California, then added two more cards, one in which I ask an LLM to "generate keywords to advertise California to techies." and in the other to "create a sarcastic tourism slogan." After clicking a "sparkle" button, it generates the two responses which I pipe into another card with the request to "use that info to come up with a tweet and hashtags that are very ironic, but sound serious."
 
@@ -25,7 +26,9 @@ The entire flow:
 And to spare you trying to zoom in, this is the result: 
 ![[flow-tweet.png]]
 
-
 On a more serious note though, this tinkering around with it made me wonder, could I pipe in my documents and notes and help me sift through them? Could I help me resurface my reflections, and give me more mind space to focus on applying those insights to something practical?
 
-...to be continued.
+In [Consume less, create more. Pt2.](Consume%20less,%20create%20more.%20Pt2..md) I'll describe how I've been starting to consolidate these thoughts and streamline my process.
+
+
+
