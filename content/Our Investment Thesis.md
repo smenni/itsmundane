@@ -9,7 +9,7 @@ We are, David and Sarah, both experienced tech innovators and angel investors, f
 
 ### Investment Criteria
 
-Our focus is on pre-seed, seed, and early-stage startups with diverse, driven founding teams. We target companies innovating in AI, LLMs, IoT, AR/VR, and related technologies, striving to create impactful and scalable solutions. Geographically, our primary focus is on startups based in North America and Europe, but we are open to outstanding opportunities worldwide.
+Our focus is on pre-seed, seed, and early-stage startups with diverse, driven founding teams. We support companies innovating in AI, LLMs, IoT, AR/VR, and related technologies, striving to create impactful and scalable solutions. Geographically, our primary focus is on startups based in Europe, but we are open to outstanding teams worldwide.
 
 
 ### What We Provide
