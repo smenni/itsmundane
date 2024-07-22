@@ -25,4 +25,4 @@ Our focus is on pre-seed, seed, and early-stage startups with diverse, driven fo
   With a Ph.D. in Computer Science and over 15 years in human-computer interaction, user experience, and product design at companies like Spotify, Google, and Microsoft, Sarah specializes in transforming complex technologies into user-friendly products.
   
 >[!hint] **Connect with Us**
->We are eager to connect with founders as excited about using emerging technologies to improve our everyday lives. If your startup aligns with our investment philosophy, please reach out!
+>We are eager to connect with founders who are just as excited about using emerging technologies to improve our everyday lives as we are. If your startup aligns with our investment philosophy, please reach out!
