@@ -11,4 +11,3 @@ Here, I will start sharing my explorations with emerging tech, the newest tools 
 - [[Consume less create more Pt1]]
 - [Consume less create more Pt2](Consume%20less%20create%20more%20Pt2.md)
 
-
