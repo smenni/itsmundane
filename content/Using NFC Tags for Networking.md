@@ -23,13 +23,12 @@ While I use this exclusively in the professional context and using my LinkedIn p
 ## Creating a Custom WhatsApp link
 It's quite simple as well. Instead of using your LinkedIn URL, you create a personalized WhatsApp link.
 
-1. Start with the base URL: ```
-`https://wa.me/`
+1. Start with the base URL: `https://wa.me/`
 2. Add your phone number including the country code, without spaces or special characters. `https://wa.me/+41761234567`
 4. Add `"?text="` to your URL to indicate that you're going to add a pre-filled message. `https://wa.me/+41761234567?text=`
-5. Compose your message that you'd want the person to have prefilled in their WhatsApp message TO YOU, e.g. "Hi Sarah from DREI Solutions. We just met today. This is - add your name here"
+5. Compose your message that you'd want the person to have prefilled in their WhatsApp message to you, e.g., "Hi Sarah from DREI Solutions. We just met today. This is \< add your name here\>"
 6. Make sure your message is in the right format by putting your text into an URL encoder, like https://www.urlencoder.org/ which results in something like: `Hi%20Sarah%20from%20DREI%20Solutions.%20We%20just%20met%20today.%20This%20is%20-%20add%20your%20name%20here`
-7. Now put it all together for the final URL: `https://wa.me/+41761234567?text=Hi%20Sarah%20from%20DREI%20Solutions.%20We%20just%20met%20today.%20This%20is%20-%20add%20your%20name%20here`
+7. Now put it all together for the final URL: `https://wa.me/+41761234567?text=Hi%20Sarah%20from%20DREI%20Solutions.%20We%20just%20met%20today.%20This%20is%20-%20add%20your%20name%20here` To test this, just put it in your browser.
 8. Write this URL to your NFC tag.
 9. Done!
 
