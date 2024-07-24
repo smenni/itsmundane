@@ -4,7 +4,7 @@ draft: false
 ---
 ![400](nfc.png)
 
-As someone who recently started attending more local networking events, I faced the classic problem of not having my info readily available when someone asked for it. Business cards are old school, now everyone uses LinkedIn which I didn't even have installed on my phone. While fumbling to find and scan QR codes and disrupting the conversations, it sparked the idea to make it more seamless by using NFC tags. I knew we had a bunch of readily available in our home which has quite the reputation to be a gadget household. 
+As someone who recently started attending more local networking events, I faced the classic problem of not having my info readily available when someone asked for it. Business cards are old school, now everyone uses LinkedIn which I didn't even have installed on my phone. While fumbling to find and scan QR codes and disrupting the conversations, it sparked the idea to make it more seamless by using NFC tags. I knew we had a bunch of readily available in our home which has quite the reputation to be a gadget household.
 
 >[!info]
 >If you're not familiar with NFC (Near-Field Communication) tags, they're those handy little chips that allow devices to communicate when they're (really) close to each other. This is what powers contactless payments or quick file transfers between phones. 
