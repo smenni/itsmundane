@@ -5,17 +5,13 @@ created: 2024-07-22
 updated: 2024-07-22
 ---
 
-We are, David and Sarah, both experienced tech innovators and angel investors, focusing on supporting early-stage startups that use emerging technologies to transform everyday lives. With expertise in AI-driven experiences, such as augmented reality, voice interactions, and smart homes, as well as rapid prototyping and experience design, we offer both funding and guidance to startups committed to technological innovation with positive impact.
-
+We are David and Sarah, angel investors with thorough experience as tech innovators. We focus on supporting early-stage startups that use emerging technologies to transform everyday lives. With expertise in AI-driven experiences, such as augmented reality, voice interactions, and smart homes, as well as rapid prototyping and experience design, we offer both funding and guidance to startups committed to technological innovation with positive impact.
 ### Investment Criteria
-
-Our focus is on pre-seed, seed, and early-stage startups with diverse, driven founding teams. We support companies innovating in AI, LLMs, IoT, AR/VR, and related technologies, striving to create impactful and scalable solutions. Geographically, our primary focus is on startups based in Europe, but we are open to outstanding teams worldwide.
-
-
+With a focus on pre-seed, seed, and early-stage startups, we support diverse, driven founding teams striving to create impactful and scalable solutions leveraging AI, LLMs, IoT, AR/VR, and related technologies. Our primary investment focus is Europe, but we're eager to work with exceptional startup teams wherever they're based.
 ### What We Provide
-1. **Expert Guidance**: David brings an extensive background in AR, XR, and natural user interfaces. Sarah offers expertise in interactive AI, LLMs, and personalization. Both provide a comprehensive skill set ranging from technical development to user-centered design.
-2. **Network Access**: Startups we invest in benefit from our broad networks across tech industries and academia, facilitating partnerships and providing insights into industry trends and needs.
-3. **Strategic Investment**: We invest with a commitment to supporting innovation that aligns with positive societal values. Diversity within teams, particularly the inclusion of women in leadership roles, plays a significant role in our investment decisions.
+1. **Expert Guidance**: With over 35 years of combined experience across Big Tech, our team brings deep expertise. David specializes in AR, XR, and natural user interfaces, while Sarah excels in interactive AI, LLMs, and personalization. Together, they offer a comprehensive skill set that spans technical development and user-centered design.
+2. **Network Access**: Our broad network spans tech and academia. This extensive reach facilitates strategic partnerships, provides crucial insights into industry trends and needs, and gives our portfolio companies a competitive edge. By leveraging these connections, we help founders navigate complex market dynamics, identify emerging opportunities, and accelerate growth trajectories.
+3. **Strategic Investment**:  We're committed to democratizing entrepreneurship by investing in diverse, value-driven innovators. Diversity, particularly women-led teams, plays a significant role in our investment decisions.
 
 ### About Us
 - **David Kim** www.davidkim.de -
