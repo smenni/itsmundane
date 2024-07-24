@@ -5,7 +5,7 @@ created: 2024-07-22
 updated: 2024-07-22
 ---
 
-We are David and Sarah, angel investors with thorough experience as tech innovators. We focus on supporting early-stage startups that use emerging technologies to transform everyday lives. With expertise in AI-driven experiences, such as augmented reality, voice interactions, and smart homes, as well as rapid prototyping and experience design, we offer both funding and guidance to startups committed to technological innovation with positive impact.
+We are David and Sarah, angel investors with over 35 years of combined experience as tech innovators in academia, startups, and big tech in Silicon Valley and Europe. We provide funding and expert guidance to early-stage startups that drive technical innovation or use emerging technologies to transform everyday lives with a positive impact.
 ### Investment Criteria
 With a focus on pre-seed, seed, and early-stage startups, we support diverse, driven founding teams striving to create impactful and scalable solutions leveraging AI, LLMs, IoT, AR/VR, and related technologies. Our primary investment focus is Europe, but we're eager to work with exceptional startup teams wherever they're based.
 ### What We Provide
