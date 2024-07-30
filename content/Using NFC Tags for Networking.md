@@ -1,6 +1,7 @@
 ---
 title: Using NFC Tags for Networking
 draft: false
+date: 2024-07-24
 ---
 ![400](nfc.png)
 

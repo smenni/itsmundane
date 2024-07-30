@@ -1,7 +1,7 @@
 ---
 title: Consume less, create more. Part 1.
 draft: false
-created: 2024-07-10
+date: 2024-07-10
 updated: 2024-07-17
 ---
 Bear with me for a second (what a sentence to start my first public post...) I need this disclaimer since I've always had mixed feelings about people who write about productivity tools and instruct others to set up these sophisticated, intricate systems. It feels like peak 'productive procrastination.' 

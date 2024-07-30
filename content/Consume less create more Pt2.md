@@ -1,6 +1,7 @@
 ---
 title: Consume less, create more. Part 2.
 draft: false
+date: 2024-07-17
 ---
 
 In [Consume less create more Pt1](Consume%20less%20create%20more%20Pt1.md), I described my goals around content consumption and creation. But to show a little more of an example, I want to show how I'm using other tools that help me make sense of the highlights I collect and consolidating my thoughts on them. 
