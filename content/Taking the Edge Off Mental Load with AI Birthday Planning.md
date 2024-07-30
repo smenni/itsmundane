@@ -6,7 +6,7 @@ updated: 2024-07-30
 ---
 #blogidea 
 
-As I mentioned previously one of my interests is in how to reduce mental load of parents by utilizing tech, and one of the things that always stress me out about being a parent are birthday parties. I love creating that magic moment for my daughter, but oh my, making all these decisions, thinking of everything in advance…it's just draining too much energy, even when I split the work with my husband.
+As I mentioned previously in [Consume less create more Pt2](Consume%20less%20create%20more%20Pt2.md), one of my interests is in how to reduce mental load of parents by utilizing tech, and one of the things that always stress me out about being a parent are birthday parties. I love creating that magic moment for my daughter, but oh my, making all these decisions, thinking of everything in advance…it's just draining too much energy, even when I split the work with my husband.
 ## Just tell me what to do.
 For the past two years, I turned to ChatGPT. The first year, I simply asked: 
 ```I want to plan a 5th birthday party for my daughter. What do I need to think about?```
