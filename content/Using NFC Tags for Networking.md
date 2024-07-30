@@ -6,6 +6,7 @@ updated: 2024-07-24
 ---
 
 ![[quartz/content/images/nfc.png|400]]
+
 As someone who recently started attending more local networking events, I faced the classic problem of not having my info readily available when someone asked for it. Business cards are old school, now everyone uses LinkedIn which I didn't even have installed on my phone. While fumbling to find and scan QR codes and disrupting the conversations, it sparked the idea to make it more seamless by using NFC tags. I knew we had a bunch of readily available in our home which has quite the reputation to be a gadget household.
 
 >[!info]
