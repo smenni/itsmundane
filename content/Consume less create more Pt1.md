@@ -23,10 +23,10 @@ My friend [Daniel Leon](https://www.linkedin.com/in/danielandresleon) introduced
 E.g., in the screenshot I'm using a card with some text about California, then added two more cards, one in which I ask an LLM to "generate keywords to advertise California to techies." and in the other to "create a sarcastic tourism slogan." After clicking a "sparkle" button, it generates the two responses which I pipe into another card with the request to "use that info to come up with a tweet and hashtags that are very ironic, but sound serious."
 
 The entire flow:
-![[flow-overview.png]]
+![[content/images/flow-overview.png]]
 
 And to spare you trying to zoom in, this is the result: 
-![[flow-tweet.png]]
+![[content/images/flow-tweet.png]]
 
 On a more serious note though, this tinkering around with it made me wonder, could I pipe in my documents and notes and help me sift through them? Could I help me resurface my reflections, and give me more mind space to focus on applying those insights to something practical?
 

@@ -25,11 +25,11 @@ To reconnect this to my current focus on the mental load of parenting and the us
 
 Let's say I want to figure out the general themes of the related content I've recently read and understand how they might connect. In that case, I can ask Enzyme to "Identify and explain three common themes between \#mentalload and \#parenting," and it provides an answer directly in the same note, as shown in this screenshot:
 
-> ![](enzyme-examples.png)
+> ![](content/images/enzyme-examples.png)
 
 Now I can just pull out anything that seems useful in the output, as it's simply text in my note. I can also highlight parts that resonate with me and ask Enzyme to expand on it (was so close to using 'delve into' here, but didn't want to sound like your average ChatGPT) as illustrated in this screenshot:
 
-![](enzyme-highlights.png)
+![](content/images/enzyme-highlights.png)
 
 While it may seem a bit meta to ask an LLM to write about a dystopian versus utopian vision of how technologies "like itself" might be used in the context of parenting, I hope this brings back the point of how valuable it can be to have access to a tool that's aware of all my highlights and helps me organize them across various areas of interest.
 

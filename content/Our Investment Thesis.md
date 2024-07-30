@@ -2,7 +2,6 @@
 title: Our Investment Thesis
 draft: false
 created: 2024-07-22
-updated: 2024-07-22
 ---
 
 We are David and Sarah, angel investors with over 35 years of combined experience as tech innovators in academia, startups, and big tech in Silicon Valley and Europe. We provide funding and expert guidance to early-stage startups that drive technical innovation or use emerging technologies to transform everyday lives with a positive impact.
