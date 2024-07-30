@@ -9,11 +9,9 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "◉ it\'s mundane ai",
+    analytics: { provider: 'google', tagId: 'GTM-T9LHDX8T' },
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
     locale: "en-US",
     baseUrl: "itsmundane.ai",
     ignorePatterns: ["private", "templates", ".obsidian"],
