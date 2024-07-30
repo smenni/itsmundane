@@ -62,8 +62,10 @@ This was a solid and quite helpful start! And even though I didn't pick up every
 
 
 ![[Pasted image 20240730142806.png|200]]
-![[Pasted image 20240730143001.png|200]]
-![[Pasted image 20240730143113.png|200]]
+![[Pasted image 20240730143001.png|200]]|
+
+
+![[Pasted image 20240730143113.png|200]]\
 ![[Pasted image 20240730143245.png|200]]
 # ChatGPT isn't a local.
 I also tried to get some good recommendations for where to host this party nearby and while it had some ideas that would technically fit the specs, they were actually not useful. Well, maybe if you celebrate your kids' birthday in an event location with a capacity of up to 1000 people...  I couldn't get it to even come up with the go-to destinations that local parents would tell you about. While it does make sense as there isn't a lot of public content about them meaning it was never trained on such knowledge, it was still a bit disappointing. Hopefully, in the near future, more custom-trained models or targeted assistants/agents will focus on including more local content as an additional knowledge base.
