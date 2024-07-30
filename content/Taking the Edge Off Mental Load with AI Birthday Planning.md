@@ -68,10 +68,9 @@ Fast-forward to this year, I already had a destination in mind. Since last year 
 
 It was actually helpful. But only if you know how to lightly edit the output because it never fully got all the details right. It's not designed to do that, but it's easy to imagine how quickly even a general model like the ones accessible via ChatGPT will get there. Until then, it's a bit entertaining to see some technology creating something visual that is almost getting it, but not quite.
 
-![[Pasted image 20240722142344.png]]
-![[Pasted image 20240722142350.png]]
-![[Pasted image 20240722142356.png]]
-![[CELEBRATE.jpg]
+![[Pasted image 20240722142344.png|400]]
+![[Pasted image 20240722142350.png|400]]
+![[Pasted image 20240722142356.png|400]]
 
 ## My take-away
 Long story short, I found it really handy to use ChatGPT for planning my daughter's birthday parties because
