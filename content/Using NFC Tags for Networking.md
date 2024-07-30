@@ -2,6 +2,7 @@
 title: Using NFC Tags for Networking
 draft: false
 date: 2024-07-24
+updated: 2024-07-24
 ---
 
 ![[quartz/content/images/nfc.png|400]]
