@@ -34,9 +34,11 @@ Nonetheless, an MVP was created and I got a few test users, making me decide to 
 
 ## Eating your own Dog Food.
 Being able to use SnapTag myself daily now, I started improving its UI/UX and functionality. I knew it in theory how important it is to not give in to temptations of feature creep and adding more and more to it, but it's another thing to do it in practice to just focus relentlessly on a product's core value (in this case being a visual reminder tool.) And unsurprisingly, in my personal use the above mentioned categories like time-sensitive events kept on coming up making it one of the main tags I've been using. 
+
 ![[Pasted image 20240828121732.png|300]]
 
 And while the ever-growing list of things we need to fix in our home is less exciting, it also became a go-to tag because it's an example of "a picture is worth a 1000 words." I'd never add this to a todo list if I had to think about how to describe the task at hand when the photo says it all.
+
 ![[Pasted image 20240828121705.png|300]]
 
 ## Ticking the Boxes.
