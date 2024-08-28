@@ -42,7 +42,7 @@ And while the ever-growing list of things we need to fix in our home is less exc
 ![[Pasted image 20240828121705.png|300]]
 
 ## Ticking the Boxes.
-I've learned so much and to stick with the metaphor: I could feel my "exercise muscles" gaining strength and the scope of the project stayed quite narrow, so I'm excited to tick off goal #1. Just about these days, I'm hitting my defined budget (but decided to expand it a bit more to see it all the way through), so let's call that asemi-check on goal #2. Since I now use the app myself on the daily, I can confidently tick off goal #3 as worst case, SnapTag will simply be the most expensive app I bought for myself.
+I've learned so much and to stick with the metaphor: I could feel my "product muscles" gaining strength and the scope of the project stayed quite narrow, so I'm excited to tick off goal #1. Just about these days, I'm hitting my defined budget (but decided to expand it a bit more to see it all the way through), so let's call that asemi-check on goal #2. Since I now use the app myself on the daily, I can confidently tick off goal #3 as worst case, SnapTag will simply be the most expensive app I bought for myself.
 
 So, the next milestone is to take it out of TestFlight and into the App store while still in Beta. I started prepping it for a wider release, learning about monetization models, marketing strategies, and user communication as well as what tools or services support them. If you're interested in trying SnapTag out yourself, sign up [here](https://snaptagapp.com/) or ping me directly.
 
