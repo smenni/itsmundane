@@ -1,5 +1,5 @@
 ---
-title: "A love letter to digital calendars easing the mental load for families."
+title: A love letter to digital calendars easing the mental load for families
 draft: false
 date: 2024-09-03
 updated: 2024-09-03
