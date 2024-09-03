@@ -1,3 +1,10 @@
+---
+title: "A love letter to digital calendars easing the mental load for families."
+draft: false
+date: 2024-09-03
+updated: 2024-09-03
+---
+
 I'm often the go-to IT person in my circle of friends, so I'm used to get questions like "should I buy this device" to "what do you think of this specific app" quite regularly. While I may not have the perfect answer, I always try my best to help them ask the right questions to find what works best for their unique situation. 
 
 Recently, I got the opportunity to apply that "approach" again, when a friend asked me about introducing a digital calendar into their family of five to ease her mental load. Her question immediately piqued my interest, as not only is parental mental load a strong passion of mine, but in the past I also researched digital calendar for families in smart homes. So I was thrilled to dive in!
