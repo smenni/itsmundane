@@ -5,7 +5,7 @@ date: 2024-09-18
 updated: 2024-09-18
 ---
 
-Ever since I can remember, I've been fascinated by the art of homemaking. Growing up with six aunts who were skilled in creating warm and loving living spaces, I developed a deep appreciation for the labor and care that turn a house into a home. Though often perceived as mundane, domestic environments are the backbone of our lives, and making them special is both an art and a hard-earned skill. Little did I know that this appreciation for the everyday would lead me to explore the intersection of domestic environments and artificial intelligence.
+Ever since I can remember, I've been fascinated by the art of homemaking. Growing up with seven aunts who were skilled in creating warm and loving living spaces, I developed a deep appreciation for the labor and care that turn a house into a home. Though often perceived as mundane, domestic environments are the backbone of our lives, and making them special is both an art and a hard-earned skill. Little did I know that this appreciation for the everyday would lead me to explore the intersection of domestic environments and artificial intelligence.
 
 ## The Overlooked Power of Everyday Innovations
 Let's start with a list of inventions we can all agree on that make our everyday life significantly better: automatic dishwashers, windshield wipers, coffee filters, fridges, toasters, waterproof diapers (for the parents at least), and home security systems. What do they all have in common? These impactful inventions, integral to our daily lives, were created by women like Josephine Cochrane, Mary Anderson, Melitta Bentz, Florence Parpart, Sarah Guppy, Marion Donovan, and Marie Van Brittan Brown.
