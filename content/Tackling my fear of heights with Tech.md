@@ -1,5 +1,5 @@
 ---
-title: Tackling my fear of heights with tech
+title: Tackling my fear of heights with Tech
 draft: false
 date: 2024-10-07
 updated: 2024-10-08
