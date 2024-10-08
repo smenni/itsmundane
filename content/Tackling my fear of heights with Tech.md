@@ -21,10 +21,10 @@ Having started to ski as an adult only, I figured maybe I just need a better tec
 And sure enough, the fear came along for the camp. However my instructor managed to give me a different perspective on it. When he and a few others dropped over a small cliff, it made me curious enough to ski nearby (but ultimately ski around the drop.) Afterwards he asked me: "did you think about dropping in, too?" and in fact, I did for a split second and that's when what he shared totally reframed my thinking: 
 
 >[!abstract] Not-so-scientific stages of tackling fears
-> Stage 1: Be absolutely terrified and avoid that situation at all costs.
-> Stage 2: Daring to get close, but still thinking "Hell no!"
-> Stage 3: Considering the possibility
-> Stage 4: Actually doing it!
+> 1. Be absolutely terrified and avoid that situation at all costs.
+> 2. Daring to get close, but still thinking "Hell no!"
+> 3. Considering the possibility.
+> 4. Actually doing it!
 
 He pointed out that even by entertaining the idea of the drop, I was already further ahead than I might have thought. This simple reframe gave me such a confidence boost. I realized I'd been stuck at stage 1 for so long, actively avoiding any exposure to heights. But the steps I was taking would take me into the right direction if I don't give up.  
 
