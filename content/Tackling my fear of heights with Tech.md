@@ -31,7 +31,7 @@ He pointed out that even by entertaining the idea of the drop, I was already fur
 # Can Tech Simulate Real Exposure? 
 Inspired by that and since it can be hard to regularly get out into the mountains, I started wondering – could technology help accelerate that journey?  I remembered a VR demo I'd tried years ago at Georgia Tech, where you walked on a real plank put on the floor with a VR headset. Georgia's Tech's [research][1] in this space is even going back to 1995. In the virtual environment, you'd walk down the plank over the side of a skyscrape. The immersion I remember was incredible, triggering that stomach-dropping sensation of being up high. 
 
-So I thought, let's try this again, so I watched POV videos of crazy mountain bikers, skiers and even wingsuit flying, tried a VR game ["The Climb"](https://www.theclimbgame.com/), a smartphone-based VR app called ["EASYHEiGHTs"](https://mcn.unibas.ch/de/publications/mobile-apps/easyheights/) designed specifically to conquer the fear of heights. This app from University of Basel was also [studied][2] for its effectiveness and they found good effects after repeated (6 x 30 minutes) app use. I would lie if I said I used it that frequently, so maybe that's why I didn't notice strong effects or physical reaction like when being on an actual mountain. 
+So I thought, let's try this again, so I watched POV videos of crazy mountain bikers, skiers and even wingsuit flying, tried a VR game ["The Climb"](https://www.theclimbgame.com/), a smartphone-based VR app called ["EASYHEiGHTs"](https://mcn.unibas.ch/de/publications/mobile-apps/easyheights/) designed specifically to conquer the fear of heights. This app from University of Basel was also studied [<sup>2</sup>](https://www.nature.com/articles/s41746-021-00387-7 for its effectiveness and they found good effects after repeated (6 x 30 minutes) app use. I would lie if I said I used it that frequently, so maybe that's why I didn't notice strong effects or physical reaction like when being on an actual mountain. 
 
 But when I recently tried my very first baby Via Ferrata [Brunnistöckli](https://youtu.be/__Ux2TUIQoE) in Engelberg, it didn't feel quite as intense as I was afraid it would. So maybe that tech exposure had been helping after all?
 
@@ -44,9 +44,11 @@ Mountains and the outdoors might not be everyone's cup of tea. And there are als
 And tech will only get you so far in providing that "real fear."
 
 ##### References:
-
 [1]: https://www.nytimes.com/1995/06/21/us/virtual-reality-conquers-fear-of-heights.html (Virtual Reality Conquers Fear of Heights, in New York Times, Daniel Goleman, June 21, 1995)
 [2]: https://www.nature.com/articles/s41746-021-00387-7 (Bentz, D., Wang, N., Ibach, M.K. _et al._ Effectiveness of a stand-alone, smartphone-based virtual reality exposure app to reduce fear of heights in real-life: a randomized trial. _npj Digit. Med._ **4**, 16, 2021)
+
+<sup>1</sup> Virtual Reality Conquers Fear of Heights, in New York Times, Daniel Goleman, June 21, 1995 [](https://www.nytimes.com/1995/06/21/us/virtual-reality-conquers-fear-of-heights.html)
+<sup>2</sup> Bentz, D., Wang, N., Ibach, M.K. _et al._ Effectiveness of a stand-alone, smartphone-based virtual reality exposure app to reduce fear of heights in real-life: a randomized trial. _npj Digit. Med._ **4**, 16, 2021 [](https://www.nature.com/articles/s41746-021-00387-7 )
 
 
 
