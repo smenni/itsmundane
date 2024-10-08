@@ -1,8 +1,8 @@
 ---
 title: Tackling my fear of heights with tech
 draft: false
-date: 2024-10-08
-updated: 2024-10-08
+date: 2024-10-07
+updated: 2024-10-09
 ---
 I'm afraid of heights. Ok, this seems to have truly nothing to do with tech or everyday problems. But it's become a problem for me, so I'm stretching my definition of "everyday" to this mostly seasonal problem and I'll also make a point of how tech can get involved with it. 
 
@@ -33,7 +33,7 @@ Inspired by that and since it can be hard to regularly get out into the mountain
 
 So I thought, let's try this again, so I watched POV videos of crazy mountain bikers, skiers and even wingsuit flying, tried a VR game ["The Climb"](https://www.theclimbgame.com/), a smartphone-based VR app called ["EASYHEiGHTs"](https://mcn.unibas.ch/de/publications/mobile-apps/easyheights/) designed specifically to conquer the fear of heights. This app from University of Basel was also studied app use[^2]. I would lie if I said I used it that frequently, so maybe that's why I didn't notice strong effects or physical reaction like when being on an actual mountain. 
 
-But when I recently tried my very first baby Via Ferrata [Brunnistöckli](https://youtu.be/__Ux2TUIQoE) in Engelberg, it didn't feel quite as intense as I was afraid it would. So maybe that tech exposure had been helping after all?
+But when I recently tried my very first baby Via Ferrata [Brunnistöckli](https://youtu.be/__Ux2TUIQoE) in Engelberg, it didn't feel quite as intense as I was afraid it would. So maybe the exposure in VR had been helping after all and increased my "cliff tolerance"? Or maybe it was my trust in the technology of the rope system that helped me calm my nerves?
 
 ![[Pasted image 20241008131622.png|400]]
 
