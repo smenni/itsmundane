@@ -4,7 +4,6 @@ draft: false
 date: 2024-10-08
 updated: 2024-10-08
 ---
-
 I'm afraid of heights. Ok, this seems to have truly nothing to do with tech or everyday problems. But it's become a problem for me, so I'm stretching my definition of "everyday" to this mostly seasonal problem and I'll also make a point of how tech can get involved with it. 
 
 ## The Birth of a Fear and a Mountain-Sized Dilemma
@@ -15,7 +14,8 @@ Thanks to not living or working in a sky scraper, it's definitely not a real pro
 # Baby Steps and Great Advice 
 Having started to ski as an adult only, I figured maybe I just need a better technique and signed up for a ski technique camp. To bring that to different snow conditions, I did a powder skiing class and a freeride camp. 
 
-![[Pasted image 20241008131735.png]]
+
+![[Pasted image 20241008131735.png|400]]
 The "Powder" of that Powder skiing class
 
 And sure enough, the fear came along for the camp. However my instructor managed to give me a different perspective on it. When he and a few others dropped over a small cliff, it made me curious enough to ski nearby (but ultimately ski around the drop.) Afterwards he asked me: "did you think about dropping in, too?" and in fact, I did for a split second and that's when what he shared totally reframed my thinking: 
@@ -34,7 +34,7 @@ So I thought, let's try this again, so I watched POV videos of crazy mountainbik
 
 But when I recently tried my very first baby via ferrata [Brunnistöckli](https://youtu.be/__Ux2TUIQoE) in Engelberg, it didn't feel quite as intense as I was afraid it would. So maybe that tech exposure had been helping after all?
 
-![[Pasted image 20241008131622.png]]
+![[Pasted image 20241008131622.png|400]]
 
 Mountains and the outdoors might not be everyone's cup of tea. And there are also plenty of ways of enjoying it without having to expose one to a potential fear of heights. But I do think that there's value to expose oneself to one's fears, whatever that might be. Especially for people like me who spend the majority of their lives in  environments designed for humans' comfort. While I have absolutely nothing in common with Alex Honnold, what he said in this [interview](https://www.youtube.com/watch?v=wIwoU7-Czp4&ab_channel=HighPerformance) absolutely resonates with me:  *“I think that, if you don’t experience real fear from time to time, you don't experience real danger, then your mind just sort of creates fear out of nothing.”* And tech will only get you so far in providing that "real fear."
 
