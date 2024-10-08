@@ -2,7 +2,7 @@
 title: Tackling my fear of heights with tech
 draft: false
 date: 2024-10-07
-updated: 2024-10-09
+updated: 2024-10-08
 ---
 I'm afraid of heights. Ok, this seems to have truly nothing to do with tech or everyday problems. But it's become a problem for me, so I'm stretching my definition of "everyday" to this mostly seasonal problem and I'll also make a point of how tech can get involved with it. 
 
