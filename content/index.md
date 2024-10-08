@@ -8,6 +8,7 @@ I'm a researcher, designer, tinkerer working for my own company [DREI](https://w
 Here, I will start sharing my explorations with emerging tech, the newest tools and gadgets and how I'm trying to figure out how the extraordinary might fit into the mundane. 
 
 ## Posts
+- [[Tackling my fear of heights with tech]]
 - [[Mundane Innovation]]
 - [[A love letter to digital calendars easing the mental load for families]]
 - [[The most expensive app I ever bought]]

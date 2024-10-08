@@ -43,9 +43,6 @@ Mountains and the outdoors might not be everyone's cup of tea. And there are als
  
 And tech will only get you so far in providing that "real fear."
 
-##### References:
-<sup>1</sup> Virtual Reality Conquers Fear of Heights, in New York Times, Daniel Goleman, June 21, 1995 [](https://www.nytimes.com/1995/06/21/us/virtual-reality-conquers-fear-of-heights.html)
-<sup>2</sup> Bentz, D., Wang, N., Ibach, M.K. _et al._ Effectiveness of a stand-alone, smartphone-based virtual reality exposure app to reduce fear of heights in real-life: a randomized trial. _npj Digit. Med._ **4**, 16, 2021 [](https://www.nature.com/articles/s41746-021-00387-7 )
 
 [^1]: Virtual Reality Conquers Fear of Heights, in New York Times, Daniel Goleman, June 21, 1995 [](https://www.nytimes.com/1995/06/21/us/virtual-reality-conquers-fear-of-heights.html)
 [^2]: Bentz, D., Wang, N., Ibach, M.K. _et al._ Effectiveness of a stand-alone, smartphone-based virtual reality exposure app to reduce fear of heights in real-life: a randomized trial. _npj Digit. Med._ **4**, 16, 2021 [](https://www.nature.com/articles/s41746-021-00387-7 )
