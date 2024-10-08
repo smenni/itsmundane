@@ -5,8 +5,6 @@ date: 2024-10-08
 updated: 2024-10-08
 ---
 
-#blogidea 
-
 I'm afraid of heights. Ok, this seems to have truly nothing to do with tech or everyday problems. But it's become a problem for me, so I'm stretching my definition of "everyday" to this mostly seasonal problem and I'll also make a point of how tech can get involved with it. 
 
 ## The Birth of a Fear and a Mountain-Sized Dilemma
