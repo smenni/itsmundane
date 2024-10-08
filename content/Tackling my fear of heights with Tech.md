@@ -1,5 +1,5 @@
 ---
-title: "Tackling my fear of heights with Tech"
+title: Tackling my fear of heights with tech
 draft: false
 date: 2024-10-08
 updated: 2024-10-08
